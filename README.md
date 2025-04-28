@@ -32,9 +32,11 @@ To recreate the development environment, you need the following software and/or 
 
 I found these websites useful in developing this software:
 
-* [Website Title](Link)
-*
-*
+- [MySQL 8.0 Reference Manual](https://dev.mysql.com/doc/refman/8.0/en/)
+- [W3Schools SQL Tutorial](https://www.w3schools.com/sql/)
+- [Programming with Mosh – SQL Tutorial for Beginners (YouTube)](https://www.youtube.com/watch?v=7S_tz1z_5bA)
+- [Academind – MySQL Full Course for Beginners (YouTube)](https://www.youtube.com/watch?v=9Pzj7Aj25lw)
+- [Learning SQL, 3rd Edition by Alan Beaulieu (Safari/O'Reilly E-Book)](https://learning.oreilly.com/library/view/learning-sql-3rd/9781492057604/)
 
 ## Future Work
 
