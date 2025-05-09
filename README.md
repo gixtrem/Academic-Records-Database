@@ -1,47 +1,35 @@
+# Academic Student Record System
+
 ## Overview
+This project is a relational database for tracking student enrollments, grades, and academic progress at a university. Built using MySQL and tested in MySQL Workbench, it supports CRUD operations and relationship queries.
 
-**Project Title**:
+## Technologies Used
+- MySQL Workbench
+- SQL (DDL + DML)
+- GitHub
+- YouTube (for demo)
 
-**Project Description**:
+## Features
+- Manage students, courses, instructors
+- Enroll students and record grades
+- Query academic history and GPA
+- Normalize tables to 3NF
 
-**Project Goals**:
+## Entity-Relationship Diagram
+![ERD](ERD_Diagram.png)
 
-## Instructions for Build and Use
+## Tables
+- Students
+- Courses
+- Instructors
+- Enrollments
+- Course_Instructors
 
-Steps to build and/or run the software:
+## Resources Used
+- [MySQL Documentation](https://dev.mysql.com/doc/)
+- [W3Schools SQL](https://www.w3schools.com/sql/)
+- [Learning SQL by Alan Beaulieu (Safari Books)](https://learning.oreilly.com/library/view/learning-sql-3rd/9781492057604/)
+- [Programming with Mosh - SQL Full Course](https://www.youtube.com/watch?v=7S_tz1z_5bA)
 
-1. First step here
-2.
-3.
-
-Instructions for using the software:
-
-1. First step here
-2.
-3.
-
-## Development Environment 
-
-To recreate the development environment, you need the following software and/or libraries with the specified versions:
-
-* First thing here
-*
-*
-
-## Useful Websites to Learn More
-
-I found these websites useful in developing this software:
-
-- [MySQL 8.0 Reference Manual](https://dev.mysql.com/doc/refman/8.0/en/)
-- [W3Schools SQL Tutorial](https://www.w3schools.com/sql/)
-- [Programming with Mosh – SQL Tutorial for Beginners (YouTube)](https://www.youtube.com/watch?v=7S_tz1z_5bA)
-- [Academind – MySQL Full Course for Beginners (YouTube)](https://www.youtube.com/watch?v=9Pzj7Aj25lw)
-- [Learning SQL, 3rd Edition by Alan Beaulieu (Safari/O'Reilly E-Book)](https://learning.oreilly.com/library/view/learning-sql-3rd/9781492057604/)
-
-## Future Work
-
-The following items I plan to fix, improve, and/or add to this project in the future:
-
-* [ ] First thing here
-* [ ]
-* [ ]
+## Author
+Umah – CSE 310 | BYU-Idaho
