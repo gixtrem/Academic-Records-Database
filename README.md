@@ -33,15 +33,15 @@ This project demonstrates:
 ## 🛠 Technologies Used
 
 - **MySQL Workbench 8.0+** — schema design & SQL execution
-- **SQL (DDL/DML)** — database definition & manipulation
+- **SQL — database definition & manipulation
 - **GitHub** — version control and repository management
-- **YouTube** *(planned)* — demo walkthrough
+- **YouTube**  — demo walkthrough
 
 ---
 
 ## ✅ Features
 
-- Add, update, delete student records
+- Add, update, and delete student records
 - Create courses and assign instructors
 - Enroll students and track academic grades
 - Link courses and instructors (many-to-many)
