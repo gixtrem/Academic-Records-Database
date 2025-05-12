@@ -16,7 +16,7 @@ This project is a relational database for tracking student enrollments, grades, 
 - Normalize tables to 3NF
 
 ## Entity-Relationship Diagram
-![ERD](the erd.png)
+![ERD](https://github.com/gixtrem/Academic-Records-Database/blob/main/the%20erd.png)
 
 ## Tables
 - Students
